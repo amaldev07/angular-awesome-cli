@@ -5,3 +5,5 @@
  ng g @angular/material:dashboard dashboard -> add material dashboard
  ng add @angular/fire -> to add firebase to project
  ng deploy -> to deploy to firebase project
+
+ Rference https://www.youtube.com/watch?v=cRQFZDC7Fs8&t=43s
