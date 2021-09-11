@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "awesome-cli-a0b16": {
+      "hosting": {
+        "my-app": [
+          "awesome-cli-a0b16"
+        ]
+      }
+    }
+  }
+}
